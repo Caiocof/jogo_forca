@@ -3,7 +3,7 @@
   <img src="https://github.com/Caiocof/caiocof/blob/main/python.png?raw=true" alt="PYTHON" width="120">
 <br>
 <br>
-Python Ping-Pong
+Python Hangman
 </h1>
 
 <p align="center">Python fundamentals for Data Analitic!</p>
